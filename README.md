@@ -1,5 +1,5 @@
 # 💫 About Me:
-Third Year Software Engineering Student at Western University <br>Previous Software Developer Intern at BMO <br>
+Third Year Software Engineering Student at Western University <br>Previous Software Developer Intern at BMO <br> ⚽🏀
 
 
 ## 🌐 Socials:
