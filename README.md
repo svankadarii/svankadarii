@@ -6,7 +6,7 @@ My Interests lie in  **Fin-Tech, Cloud Infrastructure, and AI Modeling**, where 
 
 I've previously worked @ **BMO** as a **Software Developer** & **MomentumMind** as a **Software & Data Engineering Intern**.
 
-Outside of tech, you’ll usually find me **Playing Soccer or Basketball** or **Going on Hikes**.
+Outside of tech, you’ll usually find me **Playing Soccer or Basketball** and **Going on Hikes**.
 
 ---
 
