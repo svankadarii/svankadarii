@@ -4,9 +4,10 @@ I'm a **Third-Year Software Engineering student at Western Engineering** with a 
 
 My Interests lie in  **Fin-Tech, Cloud Infrastructure, and AI Modeling**, where I can build scalable, reliable systems and solve **real** problems.
 
-I've previously worked @ **BMO** as a **Software Developer** & **MomentumMind** as a **Software & Data Engineering Intern**
+I've previously worked @ **BMO** as a **Software Developer** & **MomentumMind** as a **Software & Data Engineering Intern**.
 
-Outside of tech, you’ll usually find me **Playing Soccer or Basketball** or **Going on Hikes**
+Outside of tech, you’ll usually find me **Playing Soccer or Basketball** or **Going on Hikes**.
+
 ---
 
 ## 🔧 What I Work With
