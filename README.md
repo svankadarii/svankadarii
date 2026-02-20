@@ -13,7 +13,7 @@ Outside of tech, you’ll usually find me **Playing Soccer or Basketball** or **
 ## 🔧 What I Work With
 - **Cloud & Infrastructure:** AWS(EC2/S3/Lambda) & GCP(Compute Engine, Cloud Functions, Cloud Storage, BigQuery)
 - **Languages:** Python, Go, Java, SQL, Bash, Assembly, C++  
-- **Tools:** Linux, Git, CI/CD, 
+- **Tools:** Linux, Git, CI/CD, PowerShell
 
 ---
 
